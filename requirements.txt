@@ -1,0 +1,7 @@
+requests
+flask
+PyJWT
+datetime
+flask_restx
+Werkzeug
+# Add other dependencies here
